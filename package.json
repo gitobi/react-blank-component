@@ -1,6 +1,6 @@
 {
   "name": "@gitobi/react-blank-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Blank Component for React App. This is useful for mock, wireframing and creating a skeleton page.",
   "main": "build/BlankComponent.js",
   "scripts": {
@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1"
   }
 }
