@@ -1,6 +1,6 @@
 {
   "name": "@gitobi/react-blank-component",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Blank Component for React App. This is useful for mock, wireframing and creating a skeleton page.",
   "main": "build/BlankComponent.js",
   "scripts": {
